@@ -1,9 +1,8 @@
-# wanderungen-deutsche
-# Wanderungsbewegungen deutscher Staatsangehöriger (1991–2024)
+# Wanderungsbewegungen deutscher Staatsbürger:innen (1991–2024)
 
 ## Projekt
 
-Wie haben sich die Zu- und Fortzüge deutscher Staatsangehöriger seit 1991 entwickelt?
+Wie haben sich die Zu- und Fortzüge deutscher Staatsbürger:innen seit 1991 entwickelt?
 
 Dieses Datenprojekt untersucht die Wanderungsbewegungen zwischen Deutschland und dem Ausland. Ein besonderer Fokus liegt auf dem Einfluss der (Spät-)Aussiedlerzuwanderung auf den Wanderungssaldo.
 
@@ -15,8 +14,8 @@ Die Analyse basiert auf vier amtlichen Datentabellen des Statistischen Bundesamt
 
 | Daten | Originalquelle |
 |---|---|
-| Wanderungen deutscher Staatsangehöriger, historische Daten | [Destatis](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Wanderungen/Tabellen/wanderungen-zwischen-deutschland-und-dem-ausland-jahr-02.html) |
-| Wanderungen deutscher Staatsangehöriger, neuere Daten | [GENESIS 12711-0005](https://genesis.destatis.de/datenbank/online/statistic/12711/table/12711-0005) |
+| Wanderungen deutscher Staatsbürger:innen, historische Daten | [Destatis](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Wanderungen/Tabellen/wanderungen-zwischen-deutschland-und-dem-ausland-jahr-02.html) |
+| Wanderungen deutscher Staatsbürger:innen, neuere Daten | [GENESIS 12711-0005](https://genesis.destatis.de/datenbank/online/statistic/12711/table/12711-0005) |
 | (Spät-)Aussiedlerzuzüge, historische Daten | [Destatis](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Wanderungen/Tabellen/wanderungen-deutsche.html) |
 | Spätaussiedlerzuzüge, neuere Daten | [GENESIS 12711-0030](https://genesis.destatis.de/datenbank/online/statistic/12711/table/12711-0030) |
 
