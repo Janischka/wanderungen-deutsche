@@ -9,7 +9,6 @@ Dieses Datenprojekt untersucht die Wanderungsbewegungen zwischen Deutschland und
 **[Interaktive Visualisierung auf Datawrapper](https://www.datawrapper.de/_/px7xn/)**
 
 ## Datenquellen
-
 Die Analyse basiert auf vier amtlichen Datentabellen des Statistischen Bundesamtes (Destatis):
 
 | Daten | Originalquelle |
