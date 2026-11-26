@@ -6,7 +6,9 @@ Wie haben sich die Zu- und Fortzüge deutscher Staatsbürger:innen seit 1991 ent
 
 Dieses Datenprojekt untersucht die Wanderungsbewegungen zwischen Deutschland und dem Ausland. Ein besonderer Fokus liegt auf dem Einfluss der (Spät-)Aussiedlerzuwanderung auf den Wanderungssaldo.
 
-**[Interaktive Visualisierung auf Datawrapper](https://www.datawrapper.de/_/px7xn/)**
+[![Wanderungen 1991–2024](wanderungen_1991-2024.png)](https://www.datawrapper.de/_/px7xn/?v=2)
+
+***> Auf die Grafik klicken, um die interaktive Version zu öffnen.***
 
 ## Datenquellen
 Die Analyse basiert auf vier amtlichen Datentabellen des Statistischen Bundesamtes (Destatis):
